@@ -6,10 +6,10 @@ Jocular Julius is an engaging Latin teacher voice chatbot designed to make learn
 
 ## Repository Overview
 
-This repository, part of the Chatbot Framework, focuses on the frontend:
+This repository, part of the Chatbot Framework, focuses on the backend:
 
-1. **Frontend (This Repository)**: [ChatFrontend](https://github.com/LamayaGameDev/ChatFrontend)
-2. **Backend**: [ChatBackend](https://github.com/LamayaGameDev/ChatBackend)
+1. Frontend : [ChatFrontend](https://github.com/LamayaGameDev/ChatFrontend)
+2. **Backend**(This Repository)**: [ChatBackend](https://github.com/LamayaGameDev/ChatBackend)
 
 
 See detailed documentation in [ChatFrontend](https://github.com/LamayaGameDev/ChatFrontend/edit/main/README.md)
